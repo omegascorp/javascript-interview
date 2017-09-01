@@ -1,6 +1,6 @@
 # JavaScript Interview Plan
 
-## Junior
+## Junior Software Engeneer
 
 ### Core JS:
 1. How many treades JavaScript has
@@ -24,7 +24,7 @@
 2. AJAX
 3. REST
 
-## Middle
+## Middle Software Engeneer
 
 ### ES6+
 
@@ -47,7 +47,7 @@
 2. Integration tests
 3. E2E tests
 
-## Senior
+## Senior Software Engeneer
 
 ### React
 
