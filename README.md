@@ -2,7 +2,7 @@
 
 ## Junior Software Engeneer
 
-### Core JS:
+### Core JS
 
 1. How many thread JavaScript has
 2. JavaScript types
@@ -37,7 +37,7 @@
 
 ## Middle Software Engeneer
 
-## Core JS:
+### Core JS
 
 1. Event loop
 2. What is 'use strict'
