@@ -3,7 +3,7 @@
 ## Junior Software Engeneer
 
 ### Core JS:
-1. How many treades JavaScript has
+1. How many thread JavaScript has
 2. JavaScript types
 3. Difference between == and ===
 4. What is 'use strict'
