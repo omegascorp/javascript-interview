@@ -41,7 +41,7 @@
 
 1. HTTP2 / SPYDY
 
-## Testing
+### Testing
 
 1. Unit tests
 2. Integration tests
