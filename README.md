@@ -35,6 +35,10 @@
 
 1. Ask to solve a logical task by writing a function
 
+### Tools
+
+1. Git
+
 ## Middle Software Engeneer
 
 ### Core JS
@@ -62,8 +66,9 @@
 
 ### Networking
 
-1. HTTP / HTTPS
-2. HTTP headers
+1. What is HTTP?
+2. Structure HTTP request/response.
+3. HTTP and HTTPS difference
 
 ### Testing
 
