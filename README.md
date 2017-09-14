@@ -4,13 +4,14 @@
 
 ### Core JS
 
-1. How many thread JavaScript has
+1. How many threads JavaScript has
 2. JavaScript types
 3. Difference between == and ===
 5. What is clojure
 6. Hoisting
 7. Function constructors and prototypes
 8. Asyncron programming and callbacks
+9. Iteration methods
 
 ### ES6+
 
