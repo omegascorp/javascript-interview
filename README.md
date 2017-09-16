@@ -16,8 +16,14 @@
 ### ES6+
 
 1. What is new in ES6+?
-2. Classes
-3. Arrow functions
+2. Variables
+3. Classes
+4. Arrow functions
+
+### Data structures
+
+1. Queue
+2. Stack
 
 ### CSS
 
