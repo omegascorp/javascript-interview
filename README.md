@@ -12,6 +12,7 @@
 7. Function constructors and prototypes
 8. Asyncron programming and callbacks
 9. Iteration methods
+10. Chaning context (bind, call, apply)
 
 ### ES6+
 
