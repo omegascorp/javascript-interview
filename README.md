@@ -3,36 +3,39 @@
 ## Junior Software Engeneer
 
 ### Core JS
-
-1. How many threads JavaScript has
-2. JavaScript types
+1. Event Loop
+2. How many threads JavaScript has
 3. Difference between == and ===
-5. What is clojure
+5. What is clojure?
 6. Hoisting
 7. Function constructors and prototypes
-8. Asyncron programming and callbacks
-9. Iteration methods
+8. Iteration methods
+9. What is scope?
 10. Chaning context (bind, call, apply)
 
 ### ES6+
 
-1. What is new in ES6+?
-2. Variables
-3. Classes
-4. Arrow functions
+1. let, const
+2. class
+3. Arrow functions
+4. Promises
+5. async/await
 
 ### Data structures
 
 1. Queue
 2. Stack
-
-### CSS
-
-1. Priorities of id, class, attribute
-2. What is flexbox
+3. Array
+4. Map
 
 ### React
 1. What is virtual DOM
+2. FLUX
+3. Redux
+
+### Node.js
+
+1. What is Node.js
 
 ### Networking
 
@@ -43,34 +46,19 @@
 
 1. Ask to solve a logical task by writing a function
 
+### Compexity
+
+1. Ask to estimate cyclomatic complexity of given function.
+
 ### Tools
 
 1. Git
 
 ## Middle Software Engeneer
 
-### Core JS
-
-1. Event loop
-2. What is 'use strict'
-3. Difference between null and undefined.
-4. How to check is the variable an object.
-5. How to check is the variable an intager.
-6. Bind, apply, call, when this can be changed.
-
-### ES6+
-
-1. Promises
-2. Async/Await
-
 ### React
 
-1. FLUX
-2. Redux
-
-### Node.js
-
-1. What is Node.js
+1. Describe how Redux pattern works.
 
 ### Networking
 
@@ -97,10 +85,6 @@
 2. Behavioral: Observer
 3. Structural: Decorator
 4. Creational: Factory method
-
-### Compexity
-
-1. Could you please estimate difficulty of given function.
 
 ### Networking
 
