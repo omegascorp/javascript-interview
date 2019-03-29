@@ -57,9 +57,13 @@
 
 ## Middle Software Engeneer
 
+### Generic
+
+1. Pure functions.
+
 ### JavaScript
 
-Event bubbling, event capturing.
+1. Event bubbling, event capturing.
 
 ### React
 
