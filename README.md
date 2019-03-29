@@ -65,6 +65,8 @@ Event bubbling, event capturing.
 
 1. Describe how Redux pattern works.
 2. Spanshot testing: Enizme
+3. Render Props
+4. Functional Components
 
 ### Networking
 
@@ -89,6 +91,7 @@ Design patterns: KISS, DRY, SOLID, YAGNI
 
 1. Portals
 2. Implement FLUX or Redux pattern
+3. Context API
 
 ### Design patterns
 
