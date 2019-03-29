@@ -59,6 +59,7 @@
 ### React
 
 1. Describe how Redux pattern works.
+2. Spanshot testing: Enizme
 
 ### Networking
 
@@ -73,6 +74,11 @@
 3. E2E tests
 
 ## Senior Software Engeneer
+
+### Genereic
+
+Code Review - why it's imprortant
+Design patterns: KISS, DRY, SOLID, YAGNI
 
 ### React
 
@@ -89,6 +95,15 @@
 ### Networking
 
 1. HTTP2 / SPYDY
+
+### Testing
+
+1. Difference between stub and mock
+2. Difference between integration and E2E tests.
+
+### Processes
+1. Git flow
+2. Scrum/Kanban
 
 ### Architectural
 
