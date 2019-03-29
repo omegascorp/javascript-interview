@@ -64,6 +64,7 @@
 ### JavaScript
 
 1. Event bubbling, event capturing.
+2. Micro vs Macro tasks.
 
 ### React
 
