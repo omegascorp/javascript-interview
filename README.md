@@ -3,6 +3,7 @@
 ## Junior Software Engeneer
 
 ### Core JS
+
 1. Event Loop
 2. How many threads JavaScript has
 3. Difference between == and ===
@@ -102,6 +103,7 @@ Design patterns: KISS, DRY, SOLID, YAGNI
 2. Difference between integration and E2E tests.
 
 ### Processes
+
 1. Git flow
 2. Scrum/Kanban
 
