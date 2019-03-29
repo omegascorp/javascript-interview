@@ -57,6 +57,10 @@
 
 ## Middle Software Engeneer
 
+### JavaScript
+
+Event bubbling, event capturing.
+
 ### React
 
 1. Describe how Redux pattern works.
